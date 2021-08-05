@@ -43,3 +43,9 @@ h2{
 .column h2 {
   border-bottom: solid black;
 }
+.profile {
+  margin: auto;
+  height: auto;
+  display: block;
+  border: 3px solid black;
+}
