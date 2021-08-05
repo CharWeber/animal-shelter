@@ -2,6 +2,7 @@ body{
   background-color: rgb(125, 105, 138);
   font-family:'Times New Roman', Times, serif;
   text-align:center;
+  color: lightgoldenrodyellow;
 }
 img {
   width: 300px;
@@ -13,26 +14,32 @@ h2{
   font-size:large;
 }
 .cat p{
-
+  font-style: italic;
 }
 .dog h2{
-
+  font-family: arial;
 }
 .monkey p{
-
+  font-style: italic;
 }
 .cow h2{
-
+  font-size: 30px;
+  color: lightsalmon;
 }
 .chipmunk img{
-
+  border-color:chartreuse;
 }
 .column{
   float: left;
   width: 300px;
+  height: 500px;
   margin: 20px;
   border: black;
   border-style: solid;
   padding: 20px;
   text-align: left;
+}
+
+.column h2 {
+  border-bottom: solid black;
 }
