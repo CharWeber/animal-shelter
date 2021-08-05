@@ -1,0 +1,38 @@
+body{
+  background-color: rgb(125, 105, 138);
+  font-family:'Times New Roman', Times, serif;
+  text-align:center;
+}
+img {
+  width: 300px;
+  height: auto;
+  border: black;
+  border-style: solid;
+}
+h2{
+  font-size:large;
+}
+.cat p{
+
+}
+.dog h2{
+
+}
+.monkey p{
+
+}
+.cow h2{
+
+}
+.chipmunk img{
+
+}
+.column{
+  float: left;
+  width: 300px;
+  margin: 20px;
+  border: black;
+  border-style: solid;
+  padding: 20px;
+  text-align: left;
+}
